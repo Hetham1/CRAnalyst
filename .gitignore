@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+
+# Checkpoints & databases
+checkpoints/
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage
+coverage.xml
+htmlcov/
+
+# Node modules (if future frontend tooling)
+node_modules/
+
+# Docker
+*.log
+
