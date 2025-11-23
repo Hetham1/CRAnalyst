@@ -1,4 +1,4 @@
-﻿# Crypto Analyst Chatbot
+﻿# Crypto Analyst Chatbot (WORK IN PROGRESS)
 
 An AI-powered conversational analyst for cryptocurrency market insights powered by LangGraph + FastAPI. The agent maintains threaded conversations with persistent memory, calls CoinGecko-powered tools, and streams answers to a lightweight web UI.
 
